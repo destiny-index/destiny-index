@@ -2,22 +2,24 @@
 
 <programmer@monkas.co> | <https://github.com/destiny-index>
 
-## Technical Skills
-
-| Programming Languages                  | Developer Tooling                 |
-| -------------------------------------- | --------------------------------- |
-| C, JavaScript, Kotlin, Python, Haskell | Vim, Git, Bash, Coreutils, Docker |
-
 ## Experience
 
 -   **McKinsey & Company**  
-    April 2021 ― Current
+    April 2021 ― January 2024
 
-    _Digital Specialist (Staff Engineer equivalent)_
+    _Staff Engineer_
 
-    -   Mentored other engineers on how to make time for learning, how to run
-        healthy software projects, and how to make use of Extreme Programming in
-        small engineering teams.
+    -   Made web apps for multiple clients to injest data, run machine learning
+        models, and perform data visualisation of the predictions using charting
+        libraries.
+
+        `Python, Pandas, React, Node.js, PostgreSQL`
+
+    -   Worked on banking software used to kickstart new digital banks by
+        integrating with commonly used 3rd party services and supplying a demo
+        React Native mobile app.
+
+        `React Native, Node.js`
 
     -   Planned and delivered a Proof of Concept for incrementally decoupling an
         e-commerce storefront from a vendor controlled monolith.
@@ -27,7 +29,7 @@
 -   **Hypothesis Consulting**  
     May 2018 ― March 2021
 
-    _Senior Consultant (Senior Engineer equivalent)_
+    _Senior Engineer_
 
     -   Gave training to engineers on type safety, static analysis, code smells,
         metaprogramming and how to analyze git commit data.
@@ -78,6 +80,12 @@
         tracking tags.
 
         `C, Ruby, JavaScript`
+
+## Technical Skills
+
+TypeScript/JavaScript, Python, Haskell, C, Kotlin
+
+Vim, Git, Bash, Docker, AWS, PostgreSQL, Linux
 
 ## Education
 
